@@ -1,0 +1,32 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.contenido {
+    background-color: #F39910;
+    color: white;
+    padding: 2px;
+    box-sizing: border-box;
+    height: 145px;
+    width: 670px;
+    line-height: 10px;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    font-size:26px;
+    font-stretch: condensed;
+}
+
+p {
+    text-align: center;
+    font-size:21px;
+    font-stretch: condensed;
+    color: #F3F2F2;
+    font-weight: lighter;
+    letter-spacing: 1.5px;
+
+}
+    
